@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
 ---
 ## :man_technologist: About Me :
 
-- Meet Joseph, a multi-talented individual with an impressive skill set that spans across different domains. As a skilled Python coder, Alex possesses the ability to harness the power of technology and leverage it to bring innovative solutions to various challenges. Whether it's automating tasks, data analysis, or developing applications, Joseph's proficiency in Python opens up a world of possibilities.
+- Meet Joseph, a multi-talented individual with an impressive skill set that spans across different domains. As a skilled Python coder, Joseph possesses the ability to harness the power of technology and leverage it to bring innovative solutions to various challenges. Whether it's automating tasks, data analysis, or developing applications, Joseph's proficiency in Python opens up a world of possibilities.
 
 - Beyond the realm of technology, Joseph also boasts a keen understanding of business activities. This knowledge enables Joseph to approach problem-solving from a holistic perspective, considering not only the technical aspects but also the broader implications on the organization's goals and strategies. With a knack for data-driven decision-making and strategic thinking, Joseph becomes an invaluable asset in any business setting.
 
