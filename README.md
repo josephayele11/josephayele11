@@ -5,8 +5,6 @@ josephayele11/josephayele11 is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 <div id="header" align="center">
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg" width="500" height="100"/>
-  <br>
   <div id="badges">
      <br>
     <a href="https://www.linkedin.com/in/joseph-ayele-7ab9a6269/">
